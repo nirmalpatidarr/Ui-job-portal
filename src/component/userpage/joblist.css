@@ -1,0 +1,28 @@
+.cardmain{
+   padding: 10px;
+
+    
+}.small-card{
+    /* border: 1px solid black; */
+    margin: 50px;
+    padding: 30px;
+}
+.cardlist {
+    width: 80%;
+    height: 280px;
+    border-radius: 10px;
+   border: 1px solid black;
+   padding: 20px;
+   background-color: aliceblue;
+   
+}.summry{
+    margin-top: 10px;
+    width: 80%;
+    height: 100%;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: aliceblue;
+    padding: 35px;
+}.joblist-content{
+   margin-left: 200px; 
+}

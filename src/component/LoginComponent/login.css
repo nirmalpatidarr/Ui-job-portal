@@ -1,0 +1,36 @@
+.login-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+        width: 100%;
+}.head{
+    margin-top: 50px;
+}
+.login-form{
+   border-radius: 10px;
+    /* margin-top: 100px; */
+    height: 500px;
+    width:400px;
+    background-color: rgba(157, 208, 121, 0.538);
+}
+.login-menu{
+    margin-top: 50px;
+    margin-left:40px;
+   
+}.btn{
+    margin-top: 5px;
+    /* margin-left: 60px; */
+}
+.login-form p{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.LABEL{
+    background: transparent;
+    border: none;
+}.login{
+    margin-left: 100px;
+}

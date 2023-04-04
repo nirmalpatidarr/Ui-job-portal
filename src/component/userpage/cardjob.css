@@ -1,0 +1,42 @@
+.card{
+    width: 700px;
+    height:300px;
+    border-radius: 10px;
+    background-color: rgb(203, 217, 229);
+    margin: 10px;
+    border: 1px solid rgb(139, 139, 201);
+box-shadow: 5px 5px rgb(147, 158, 209);
+}
+.job-title{
+    margin: 0px;
+        padding: 0px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.job-loc{
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    
+}.jobb{
+    list-style: none;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    align-items: center;
+    font-family: Satoshi,
+        sans-serif;
+}
+.one{
+    padding: 5px;
+}.job-content{
+    border-left: 1px solid black;
+    margin-left: 5px;
+    align-items: center;
+   
+}.job-content-one{
+    border-left: 1px solid black;
+        margin-left: 10px;
+}a{
+    text-decoration: none;
+}
